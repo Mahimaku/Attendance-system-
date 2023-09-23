@@ -15,7 +15,8 @@ Commands for installing all required modules:(make sure pip is available with py
 ->pip install numpy
 ->pip install pillow
 ->pip install pandas
-->pip install timesFor new registrations password 
+->pip install times
+*For new registrations password 
 ->TrainingImageLabel folder->psd.txt(1234)                                                                    
 ->For Admin password - TrainingImageLabel folder------>Admin.txt(G15)
 
