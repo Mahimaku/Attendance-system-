@@ -2,7 +2,7 @@
 Attendance system using face recognition
 Tech used:
 ->tkinter which is a standard GUI library for python
-->OpenCV for taking images and for face recognition	wherein Haar cascade  classifier algorithm  is used	which is an object detection algorithm used to identify faces in this application.     
+->OpenCV for taking images and for face recognition	wherein Haar cascade  classifier algorithm  is used which is an object detection algorithm used to identify faces in this application.     
 numpy , pandas, CSV, datetime ,pillow etc for making excels and displaying live clock on the window and etc.
 
 
